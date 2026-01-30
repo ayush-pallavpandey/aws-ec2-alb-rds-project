@@ -21,7 +21,7 @@ Internet → ALB → EC2 → RDS
 - Database accessible only from EC2
 
 ## Author
-Ayush Pallav
+Ayush Pallav Pandey
 
 ## Links
 GitHub: https://github.com/<your-username>/aws-ec2-alb-rds-project  
