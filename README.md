@@ -25,6 +25,6 @@ Ayush Pallav Pandey
 
 ## Links
 GitHub: https://github.com/<your-username>/aws-ec2-alb-rds-project  
-Live URL: http://web-ec2-129094402.ap-south-1.elb.amazonaws.com
+Live URL: [http://web-ec2-129094402.ap-south-1.elb.amazonaws.com](http://app-lb-1831130069.ap-south-1.elb.amazonaws.com/)
 
 
